@@ -17,3 +17,7 @@ In my project I wish to look at the works of [Andrea Gabrieli](https://en.wikipe
 ## Week 2
 
 I downloaded a PDF of the original score [from CPDL](https://cpdl.org/wiki/images/a/a5/Filiae_Ierusalem_original.pdf) and uploaded it to the MuseScore conversion site. The conversion was fairly accurate but added many extra rests and voices that were not present in the original. I elected instead to type the file in manually as I am fairly proficient with this piece of software. 
+
+# Week 3
+
+I converted the MuseScore file to MusicXML then uploaded it to Verovio to convert it to MEI. The resulting MEI file can be seen on the [Verovio page](verovio.html).
